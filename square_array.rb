@@ -4,3 +4,7 @@ def square_array(array)
     return numbers << "#{number}"
   end
 end
+
+square_array(1)
+square_array(4)
+square_array(9)
