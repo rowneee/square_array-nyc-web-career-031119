@@ -5,6 +5,6 @@ def square_array(array)
   end
 end
 
-#square_array(1)
-#square_array(4)
-#square_array(9)
+square_array(1)
+square_array(4)
+square_array(9)
