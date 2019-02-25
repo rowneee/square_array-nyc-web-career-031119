@@ -1,6 +1,6 @@
 def square_array(array)
   array.each do |element|
-    pu
+    puts "#{element}"
     counter += 1
   end
 end
