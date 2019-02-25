@@ -1,10 +1,9 @@
 def square_array(array)
+  counter = 1
   array = []
   array.each do |number|
     return array << "#{number}"
+    counter
   end
 end
 
-square_array(1)
-square_array(4)
-square_array(9)
